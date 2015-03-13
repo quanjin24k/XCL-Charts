@@ -48,7 +48,7 @@ import android.util.Log;
 public class ArcLineChart  extends XChart{
 	
 	private  static final  String TAG = "ArcLineChart";
-
+	private  String s = "hubery commit test string.";
 	
 	//初始偏移角度
 	private static final int OFFSET_ANGLE = 270;	
